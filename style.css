@@ -281,19 +281,23 @@ width: 125px;
 .center-module {
   order: 2;
   background-color: aquamarine;
+  font-size: 15px;
 }
 
 .left-module {
   order: 1;
   background-color: aquamarine;
+  font-size: 12px;
 }
 
 .right-module {
   order: 3;
   background-color: aquamarine;
+  font-size: 12px;
 }
 .module:hover {
   background-color:azure;
+
 }
 
 
